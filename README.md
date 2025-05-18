@@ -1,4 +1,4 @@
-**View the complete notebook on Marathon_Races_Project.pdf file**
+# **View the complete notebook on Marathon_Races_Project.pdf file**
 
 # Project Summary
 This project explores global marathon race data with a focus on USA races held in the year 2020. It invloves cleaning, insightful visualization to understand athlete participation patterns by gender, race distance, seasons and performance.
